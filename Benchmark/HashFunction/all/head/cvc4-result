@@ -1,0 +1,601 @@
+begin test using CVC4 ...
+1
+sat
+(model
+(define-fun x () String "12345969")
+)
+It took 1 seconds
+2
+sat
+(model
+(define-fun x () String "123458")
+)
+It took 0 seconds
+3
+sat
+(model
+(define-fun x () String "1234589")
+)
+It took 1 seconds
+4
+sat
+(model
+(define-fun x () String "12345512")
+)
+It took 1 seconds
+5
+sat
+(model
+(define-fun x () String "12345")
+)
+It took 0 seconds
+6
+sat
+(model
+(define-fun x () String "1234596")
+)
+It took 1 seconds
+7
+sat
+(model
+(define-fun x () String "12345931")
+)
+It took 1 seconds
+8
+sat
+(model
+(define-fun x () String "1234515")
+)
+It took 0 seconds
+9
+sat
+(model
+(define-fun x () String "1234505")
+)
+It took 0 seconds
+10
+sat
+(model
+(define-fun x () String "123456")
+)
+It took 1 seconds
+11
+sat
+(model
+(define-fun x () String "1234522")
+)
+It took 0 seconds
+12
+sat
+(model
+(define-fun x () String "1234562")
+)
+It took 1 seconds
+13
+sat
+(model
+(define-fun x () String "1234560")
+)
+It took 0 seconds
+14
+sat
+(model
+(define-fun x () String "12345108")
+)
+It took 1 seconds
+15
+sat
+(model
+(define-fun x () String "12345853")
+)
+It took 1 seconds
+16
+sat
+(model
+(define-fun x () String "1234571")
+)
+It took 1 seconds
+17
+sat
+(model
+(define-fun x () String "123454")
+)
+It took 0 seconds
+18
+sat
+(model
+(define-fun x () String "123457")
+)
+It took 0 seconds
+19
+sat
+(model
+(define-fun x () String "1234553")
+)
+It took 0 seconds
+20
+sat
+(model
+(define-fun x () String "12345865")
+)
+It took 1 seconds
+21
+sat
+(model
+(define-fun x () String "1234502")
+)
+It took 1 seconds
+22
+sat
+(model
+(define-fun x () String "12345261")
+)
+It took 1 seconds
+23
+sat
+(model
+(define-fun x () String "1234587")
+)
+It took 1 seconds
+24
+sat
+(model
+(define-fun x () String "1234542")
+)
+It took 1 seconds
+25
+sat
+(model
+(define-fun x () String "12345031")
+)
+It took 1 seconds
+26
+sat
+(model
+(define-fun x () String "123459405")
+)
+It took 2 seconds
+27
+sat
+(model
+(define-fun x () String "12345333")
+)
+It took 0 seconds
+28
+sat
+(model
+(define-fun x () String "123451330")
+)
+It took 4 seconds
+29
+sat
+(model
+(define-fun x () String "123452354")
+)
+It took 1 seconds
+30
+sat
+(model
+(define-fun x () String "123451434")
+)
+It took 2 seconds
+31
+sat
+(model
+(define-fun x () String "123457919")
+)
+It took 4 seconds
+32
+sat
+(model
+(define-fun x () String "123458865")
+)
+It took 2 seconds
+33
+sat
+(model
+(define-fun x () String "12345206")
+)
+It took 1 seconds
+34
+sat
+(model
+(define-fun x () String "12345155")
+)
+It took 0 seconds
+35
+sat
+(model
+(define-fun x () String "123452965")
+)
+It took 2 seconds
+36
+sat
+(model
+(define-fun x () String "123451968")
+)
+It took 2 seconds
+37
+sat
+(model
+(define-fun x () String "123450298")
+)
+It took 3 seconds
+38
+sat
+(model
+(define-fun x () String "12345846")
+)
+It took 1 seconds
+39
+sat
+(model
+(define-fun x () String "12345699")
+)
+It took 1 seconds
+40
+sat
+(model
+(define-fun x () String "12345461")
+)
+It took 2 seconds
+41
+sat
+(model
+(define-fun x () String "123455845")
+)
+It took 1 seconds
+42
+sat
+(model
+(define-fun x () String "123453457")
+)
+It took 2 seconds
+43
+sat
+(model
+(define-fun x () String "12345189")
+)
+It took 1 seconds
+44
+sat
+(model
+(define-fun x () String "123455569")
+)
+It took 3 seconds
+45
+sat
+(model
+(define-fun x () String "123452877")
+)
+It took 3 seconds
+46
+sat
+(model
+(define-fun x () String "123459929")
+)
+It took 3 seconds
+47
+sat
+(model
+(define-fun x () String "123455854")
+)
+It took 1 seconds
+48
+sat
+(model
+(define-fun x () String "123457")
+)
+It took 0 seconds
+49
+sat
+(model
+(define-fun x () String "123451439")
+)
+It took 3 seconds
+50
+sat
+(model
+(define-fun x () String "123452965")
+)
+It took 2 seconds
+51
+sat
+(model
+(define-fun x () String "1234542938")
+)
+It took 4 seconds
+52
+sat
+(model
+(define-fun x () String "123452326")
+)
+It took 2 seconds
+53
+sat
+(model
+(define-fun x () String "1234562670")
+)
+It took 3 seconds
+54
+sat
+(model
+(define-fun x () String "1234550122")
+)
+It took 3 seconds
+55
+sat
+(model
+(define-fun x () String "1234560733")
+)
+It took 3 seconds
+56
+sat
+(model
+(define-fun x () String "123450065")
+)
+It took 1 seconds
+57
+sat
+(model
+(define-fun x () String "123456719")
+)
+It took 2 seconds
+58
+sat
+(model
+(define-fun x () String "1234561703")
+)
+It took 3 seconds
+59
+sat
+(model
+(define-fun x () String "123452193")
+)
+It took 1 seconds
+60
+sat
+(model
+(define-fun x () String "123450497")
+)
+It took 3 seconds
+61
+sat
+(model
+(define-fun x () String "123458865")
+)
+It took 2 seconds
+62
+sat
+(model
+(define-fun x () String "1234540825")
+)
+It took 2 seconds
+63
+sat
+(model
+(define-fun x () String "123451821")
+)
+It took 2 seconds
+64
+sat
+(model
+(define-fun x () String "1234568993")
+)
+It took 2 seconds
+65
+sat
+(model
+(define-fun x () String "1234566536")
+)
+It took 3 seconds
+66
+sat
+(model
+(define-fun x () String "1234530839")
+)
+It took 3 seconds
+67
+sat
+(model
+(define-fun x () String "1234554049")
+)
+It took 2 seconds
+68
+sat
+(model
+(define-fun x () String "1234596959")
+)
+It took 4 seconds
+69
+sat
+(model
+(define-fun x () String "123457867")
+)
+It took 2 seconds
+70
+sat
+(model
+(define-fun x () String "123450616")
+)
+It took 3 seconds
+71
+sat
+(model
+(define-fun x () String "1234517141")
+)
+It took 2 seconds
+72
+sat
+(model
+(define-fun x () String "1234543779")
+)
+It took 4 seconds
+73
+sat
+(model
+(define-fun x () String "123459646")
+)
+It took 2 seconds
+74
+sat
+(model
+(define-fun x () String "123455099")
+)
+It took 2 seconds
+75
+sat
+(model
+(define-fun x () String "1234526658")
+)
+It took 3 seconds
+76
+sat
+(model
+(define-fun x () String "1234536767")
+)
+It took 4 seconds
+77
+sat
+(model
+(define-fun x () String "12345316389")
+)
+It took 5 seconds
+78
+sat
+(model
+(define-fun x () String "12345873066")
+)
+It took 5 seconds
+79
+sat
+(model
+(define-fun x () String "1234532706")
+)
+It took 2 seconds
+80
+sat
+(model
+(define-fun x () String "1234514460")
+)
+It took 3 seconds
+81
+sat
+(model
+(define-fun x () String "12345404748")
+)
+It took 6 seconds
+82
+sat
+(model
+(define-fun x () String "1234590511")
+)
+It took 3 seconds
+83
+sat
+(model
+(define-fun x () String "1234530866")
+)
+It took 2 seconds
+84
+sat
+(model
+(define-fun x () String "12345611165")
+)
+It took 5 seconds
+85
+sat
+(model
+(define-fun x () String "1234560894")
+)
+It took 2 seconds
+86
+sat
+(model
+(define-fun x () String "1234554606")
+)
+It took 3 seconds
+87
+sat
+(model
+(define-fun x () String "12345330107")
+)
+It took 5 seconds
+88
+sat
+(model
+(define-fun x () String "12345855875")
+)
+It took 5 seconds
+89
+sat
+(model
+(define-fun x () String "12345191")
+)
+It took 1 seconds
+90
+sat
+(model
+(define-fun x () String "1234517208")
+)
+It took 3 seconds
+91
+sat
+(model
+(define-fun x () String "12345644348")
+)
+It took 6 seconds
+92
+sat
+(model
+(define-fun x () String "1234543711")
+)
+It took 4 seconds
+93
+sat
+(model
+(define-fun x () String "12345787755")
+)
+It took 7 seconds
+94
+sat
+(model
+(define-fun x () String "12345237804")
+)
+It took 4 seconds
+95
+sat
+(model
+(define-fun x () String "1234575020")
+)
+It took 3 seconds
+96
+sat
+(model
+(define-fun x () String "12345238201")
+)
+It took 3 seconds
+97
+sat
+(model
+(define-fun x () String "12345867074")
+)
+It took 3 seconds
+98
+sat
+(model
+(define-fun x () String "1234521035")
+)
+It took 3 seconds
+99
+sat
+(model
+(define-fun x () String "12345516761")
+)
+It took 4 seconds
+100
+sat
+(model
+(define-fun x () String "1234505375")
+)
+It took 3 seconds

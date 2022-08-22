@@ -1,0 +1,7 @@
+(set-option :produce-models true)
+(declare-fun x () String)
+(assert (str.in.re x (re.++ (str.to.re "12345") (re.+ (str.to.re "96")) (re.+ (str.to.re "43")))))
+(assert (= (mod (mod (str.to.int x) 161201) 8860) 0))
+(assert (< (str.len x) 100))
+(check-sat)
+(get-model)

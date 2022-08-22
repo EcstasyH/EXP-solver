@@ -1,0 +1,321 @@
+begin test using Z3 ...
+1
+sat
+(
+  (define-fun x () String
+    "123458888888813")
+)
+It took 22 seconds
+2
+timeout
+It took 60 seconds
+3
+sat
+(
+  (define-fun x () String
+    "1234511113333")
+)
+It took 3 seconds
+4
+timeout
+It took 60 seconds
+5
+timeout
+It took 60 seconds
+6
+timeout
+It took 60 seconds
+7
+timeout
+It took 60 seconds
+8
+timeout
+It took 60 seconds
+9
+timeout
+It took 60 seconds
+10
+timeout
+It took 60 seconds
+11
+timeout
+It took 60 seconds
+12
+timeout
+It took 60 seconds
+13
+timeout
+It took 60 seconds
+14
+timeout
+It took 60 seconds
+15
+timeout
+It took 60 seconds
+16
+timeout
+It took 60 seconds
+17
+timeout
+It took 60 seconds
+18
+timeout
+It took 60 seconds
+19
+timeout
+It took 60 seconds
+20
+sat
+(
+  (define-fun x () String
+    "12345929227272727272727")
+)
+It took 47 seconds
+21
+sat
+(
+  (define-fun x () String
+    "12345313131")
+)
+It took 0 seconds
+22
+timeout
+It took 60 seconds
+23
+timeout
+It took 60 seconds
+24
+sat
+(
+  (define-fun x () String
+    "12345931")
+)
+It took 0 seconds
+25
+timeout
+It took 60 seconds
+26
+timeout
+It took 60 seconds
+27
+timeout
+It took 60 seconds
+28
+timeout
+It took 60 seconds
+29
+timeout
+It took 60 seconds
+30
+timeout
+It took 61 seconds
+31
+timeout
+It took 60 seconds
+32
+timeout
+It took 60 seconds
+33
+timeout
+It took 60 seconds
+34
+timeout
+It took 60 seconds
+35
+timeout
+It took 60 seconds
+36
+timeout
+It took 60 seconds
+37
+timeout
+It took 60 seconds
+38
+timeout
+It took 60 seconds
+39
+timeout
+It took 60 seconds
+40
+timeout
+It took 60 seconds
+41
+timeout
+It took 60 seconds
+42
+timeout
+It took 60 seconds
+43
+timeout
+It took 60 seconds
+44
+timeout
+It took 60 seconds
+45
+timeout
+It took 60 seconds
+46
+timeout
+It took 60 seconds
+47
+timeout
+It took 60 seconds
+48
+timeout
+It took 60 seconds
+49
+timeout
+It took 60 seconds
+50
+timeout
+It took 60 seconds
+51
+timeout
+It took 60 seconds
+52
+timeout
+It took 60 seconds
+53
+timeout
+It took 60 seconds
+54
+timeout
+It took 60 seconds
+55
+timeout
+It took 60 seconds
+56
+timeout
+It took 60 seconds
+57
+timeout
+It took 60 seconds
+58
+timeout
+It took 60 seconds
+59
+timeout
+It took 61 seconds
+60
+timeout
+It took 60 seconds
+61
+timeout
+It took 60 seconds
+62
+timeout
+It took 60 seconds
+63
+timeout
+It took 60 seconds
+64
+timeout
+It took 60 seconds
+65
+timeout
+It took 60 seconds
+66
+timeout
+It took 60 seconds
+67
+timeout
+It took 60 seconds
+68
+timeout
+It took 60 seconds
+69
+timeout
+It took 60 seconds
+70
+timeout
+It took 60 seconds
+71
+timeout
+It took 60 seconds
+72
+timeout
+It took 60 seconds
+73
+timeout
+It took 60 seconds
+74
+timeout
+It took 60 seconds
+75
+timeout
+It took 60 seconds
+76
+timeout
+It took 60 seconds
+77
+timeout
+It took 60 seconds
+78
+timeout
+It took 60 seconds
+79
+timeout
+It took 60 seconds
+80
+timeout
+It took 60 seconds
+81
+timeout
+It took 60 seconds
+82
+timeout
+It took 60 seconds
+83
+timeout
+It took 60 seconds
+84
+timeout
+It took 60 seconds
+85
+timeout
+It took 60 seconds
+86
+timeout
+It took 60 seconds
+87
+timeout
+It took 60 seconds
+88
+timeout
+It took 61 seconds
+89
+timeout
+It took 60 seconds
+90
+timeout
+It took 60 seconds
+91
+timeout
+It took 60 seconds
+92
+timeout
+It took 60 seconds
+93
+timeout
+It took 60 seconds
+94
+timeout
+It took 60 seconds
+95
+timeout
+It took 60 seconds
+96
+timeout
+It took 60 seconds
+97
+timeout
+It took 60 seconds
+98
+timeout
+It took 60 seconds
+99
+timeout
+It took 60 seconds
+100
+timeout
+It took 60 seconds

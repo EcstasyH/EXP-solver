@@ -1,0 +1,573 @@
+begin test using Z3 ...
+1
+sat
+(
+  (define-fun x () String
+    "53096789")
+)
+It took 1 seconds
+2
+sat
+(
+  (define-fun x () String
+    "56789")
+)
+It took 0 seconds
+3
+sat
+(
+  (define-fun x () String
+    "896789")
+)
+It took 0 seconds
+4
+sat
+(
+  (define-fun x () String
+    "24956789")
+)
+It took 1 seconds
+5
+sat
+(
+  (define-fun x () String
+    "596789")
+)
+It took 0 seconds
+6
+sat
+(
+  (define-fun x () String
+    "276789")
+)
+It took 1 seconds
+7
+sat
+(
+  (define-fun x () String
+    "816789")
+)
+It took 0 seconds
+8
+sat
+(
+  (define-fun x () String
+    "436789")
+)
+It took 0 seconds
+9
+sat
+(
+  (define-fun x () String
+    "496789")
+)
+It took 0 seconds
+10
+sat
+(
+  (define-fun x () String
+    "7016789")
+)
+It took 1 seconds
+11
+sat
+(
+  (define-fun x () String
+    "046789")
+)
+It took 0 seconds
+12
+sat
+(
+  (define-fun x () String
+    "046789")
+)
+It took 0 seconds
+13
+sat
+(
+  (define-fun x () String
+    "886789")
+)
+It took 0 seconds
+14
+sat
+(
+  (define-fun x () String
+    "41706789")
+)
+It took 0 seconds
+15
+sat
+(
+  (define-fun x () String
+    "71796789")
+)
+It took 1 seconds
+16
+sat
+(
+  (define-fun x () String
+    "636789")
+)
+It took 0 seconds
+17
+sat
+(
+  (define-fun x () String
+    "446789")
+)
+It took 0 seconds
+18
+sat
+(
+  (define-fun x () String
+    "316789")
+)
+It took 1 seconds
+19
+sat
+(
+  (define-fun x () String
+    "08086789")
+)
+It took 0 seconds
+20
+sat
+(
+  (define-fun x () String
+    "99726789")
+)
+It took 1 seconds
+21
+sat
+(
+  (define-fun x () String
+    "216789")
+)
+It took 0 seconds
+22
+sat
+(
+  (define-fun x () String
+    "796789")
+)
+It took 0 seconds
+23
+sat
+(
+  (define-fun x () String
+    "88996789")
+)
+It took 0 seconds
+24
+sat
+(
+  (define-fun x () String
+    "6716789")
+)
+It took 3 seconds
+25
+sat
+(
+  (define-fun x () String
+    "046789")
+)
+It took 0 seconds
+26
+sat
+(
+  (define-fun x () String
+    "3176789")
+)
+It took 1 seconds
+27
+sat
+(
+  (define-fun x () String
+    "86296789")
+)
+It took 3 seconds
+28
+sat
+(
+  (define-fun x () String
+    "40096789")
+)
+It took 4 seconds
+29
+sat
+(
+  (define-fun x () String
+    "396789")
+)
+It took 0 seconds
+30
+sat
+(
+  (define-fun x () String
+    "40076789")
+)
+It took 5 seconds
+31
+sat
+(
+  (define-fun x () String
+    "51436789")
+)
+It took 3 seconds
+32
+sat
+(
+  (define-fun x () String
+    "98006789")
+)
+It took 0 seconds
+33
+sat
+(
+  (define-fun x () String
+    "92546789")
+)
+It took 5 seconds
+34
+sat
+(
+  (define-fun x () String
+    "70776789")
+)
+It took 1 seconds
+35
+sat
+(
+  (define-fun x () String
+    "2946789")
+)
+It took 1 seconds
+36
+sat
+(
+  (define-fun x () String
+    "686789")
+)
+It took 0 seconds
+37
+sat
+(
+  (define-fun x () String
+    "80056789")
+)
+It took 2 seconds
+38
+sat
+(
+  (define-fun x () String
+    "506789")
+)
+It took 0 seconds
+39
+sat
+(
+  (define-fun x () String
+    "7806789")
+)
+It took 3 seconds
+40
+sat
+(
+  (define-fun x () String
+    "96376789")
+)
+It took 6 seconds
+41
+sat
+(
+  (define-fun x () String
+    "45996789")
+)
+It took 0 seconds
+42
+sat
+(
+  (define-fun x () String
+    "16076789")
+)
+It took 3 seconds
+43
+sat
+(
+  (define-fun x () String
+    "75746789")
+)
+It took 14 seconds
+44
+sat
+(
+  (define-fun x () String
+    "01776789")
+)
+It took 2 seconds
+45
+sat
+(
+  (define-fun x () String
+    "13196789")
+)
+It took 7 seconds
+46
+sat
+(
+  (define-fun x () String
+    "96256789")
+)
+It took 6 seconds
+47
+sat
+(
+  (define-fun x () String
+    "18256789")
+)
+It took 5 seconds
+48
+sat
+(
+  (define-fun x () String
+    "82346789")
+)
+It took 11 seconds
+49
+sat
+(
+  (define-fun x () String
+    "42176789")
+)
+It took 1 seconds
+50
+sat
+(
+  (define-fun x () String
+    "87846789")
+)
+It took 2 seconds
+51
+timeout
+It took 60 seconds
+52
+timeout
+It took 60 seconds
+53
+timeout
+It took 60 seconds
+54
+sat
+(
+  (define-fun x () String
+    "50016789")
+)
+It took 19 seconds
+55
+timeout
+It took 60 seconds
+56
+sat
+(
+  (define-fun x () String
+    "45956789")
+)
+It took 8 seconds
+57
+sat
+(
+  (define-fun x () String
+    "68096789")
+)
+It took 2 seconds
+58
+sat
+(
+  (define-fun x () String
+    "50696789")
+)
+It took 3 seconds
+59
+sat
+(
+  (define-fun x () String
+    "10656789")
+)
+It took 3 seconds
+60
+sat
+(
+  (define-fun x () String
+    "88476789")
+)
+It took 5 seconds
+61
+sat
+(
+  (define-fun x () String
+    "806789")
+)
+It took 0 seconds
+62
+timeout
+It took 60 seconds
+63
+timeout
+It took 60 seconds
+64
+sat
+(
+  (define-fun x () String
+    "07536789")
+)
+It took 19 seconds
+65
+sat
+(
+  (define-fun x () String
+    "85836789")
+)
+It took 19 seconds
+66
+timeout
+It took 60 seconds
+67
+sat
+(
+  (define-fun x () String
+    "26476789")
+)
+It took 49 seconds
+68
+timeout
+It took 60 seconds
+69
+sat
+(
+  (define-fun x () String
+    "074027896789")
+)
+It took 17 seconds
+70
+timeout
+It took 60 seconds
+71
+sat
+(
+  (define-fun x () String
+    "4286789")
+)
+It took 14 seconds
+72
+sat
+(
+  (define-fun x () String
+    "235807886789")
+)
+It took 52 seconds
+73
+sat
+(
+  (define-fun x () String
+    "601077996789")
+)
+It took 15 seconds
+74
+sat
+(
+  (define-fun x () String
+    "39806789")
+)
+It took 17 seconds
+75
+sat
+(
+  (define-fun x () String
+    "85456789")
+)
+It took 5 seconds
+76
+timeout
+It took 60 seconds
+77
+timeout
+It took 60 seconds
+78
+sat
+(
+  (define-fun x () String
+    "96716789")
+)
+It took 2 seconds
+79
+timeout
+It took 60 seconds
+80
+timeout
+It took 60 seconds
+81
+timeout
+It took 60 seconds
+82
+timeout
+It took 60 seconds
+83
+timeout
+It took 60 seconds
+84
+sat
+(
+  (define-fun x () String
+    "88776789")
+)
+It took 33 seconds
+85
+timeout
+It took 60 seconds
+86
+timeout
+It took 60 seconds
+87
+timeout
+It took 60 seconds
+88
+timeout
+It took 60 seconds
+89
+timeout
+It took 60 seconds
+90
+timeout
+It took 60 seconds
+91
+timeout
+It took 60 seconds
+92
+timeout
+It took 60 seconds
+93
+timeout
+It took 60 seconds
+94
+timeout
+It took 60 seconds
+95
+timeout
+It took 60 seconds
+96
+timeout
+It took 60 seconds
+97
+timeout
+It took 60 seconds
+98
+timeout
+It took 60 seconds
+99
+timeout
+It took 60 seconds
+100
+timeout
+It took 60 seconds

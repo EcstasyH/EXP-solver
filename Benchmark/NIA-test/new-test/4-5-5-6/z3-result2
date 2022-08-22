@@ -1,0 +1,576 @@
+begin test using Z3 ...
+101
+timeout
+It took 60 seconds
+102
+sat
+(
+  (define-fun x7 () Int
+    2)
+  (define-fun x5 () Int
+    1)
+  (define-fun x9 () Int
+    0)
+  (define-fun x8 () Int
+    0)
+  (define-fun x3 () Int
+    4)
+  (define-fun x2 () Int
+    1)
+  (define-fun x1 () Int
+    1)
+  (define-fun x6 () Int
+    3)
+  (define-fun x4 () Int
+    2)
+)
+It took 0 seconds
+103
+timeout
+It took 60 seconds
+104
+timeout
+It took 60 seconds
+105
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+106
+timeout
+It took 60 seconds
+107
+timeout
+It took 60 seconds
+108
+timeout
+It took 60 seconds
+109
+timeout
+It took 60 seconds
+110
+timeout
+It took 60 seconds
+111
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+112
+timeout
+It took 60 seconds
+113
+timeout
+It took 60 seconds
+114
+timeout
+It took 60 seconds
+115
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+116
+timeout
+It took 60 seconds
+117
+timeout
+It took 60 seconds
+118
+timeout
+It took 60 seconds
+119
+unsat
+(error "line 163 column 10: model is not available")
+It took 1 seconds
+120
+timeout
+It took 60 seconds
+121
+timeout
+It took 60 seconds
+122
+timeout
+It took 60 seconds
+123
+timeout
+It took 60 seconds
+124
+timeout
+It took 60 seconds
+125
+timeout
+It took 60 seconds
+126
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+127
+sat
+(
+  (define-fun x6 () Int
+    3074152)
+  (define-fun x9 () Int
+    4)
+  (define-fun x7 () Int
+    37)
+  (define-fun x5 () Int
+    5106761)
+  (define-fun x3 () Int
+    9)
+  (define-fun x2 () Int
+    10)
+  (define-fun x8 () Int
+    0)
+  (define-fun x1 () Int
+    10)
+  (define-fun x4 () Int
+    10)
+)
+It took 7 seconds
+128
+timeout
+It took 60 seconds
+129
+sat
+(
+  (define-fun x6 () Int
+    0)
+  (define-fun x9 () Int
+    0)
+  (define-fun x8 () Int
+    1)
+  (define-fun x3 () Int
+    1)
+  (define-fun x2 () Int
+    1)
+  (define-fun x5 () Int
+    0)
+  (define-fun x1 () Int
+    0)
+  (define-fun x4 () Int
+    0)
+  (define-fun x7 () Int
+    0)
+)
+It took 1 seconds
+130
+timeout
+It took 60 seconds
+131
+sat
+(
+  (define-fun x7 () Int
+    0)
+  (define-fun x4 () Int
+    5)
+  (define-fun x3 () Int
+    2)
+  (define-fun x5 () Int
+    5)
+  (define-fun x9 () Int
+    0)
+  (define-fun x8 () Int
+    0)
+  (define-fun x2 () Int
+    3)
+  (define-fun x1 () Int
+    2)
+  (define-fun x6 () Int
+    2)
+)
+It took 1 seconds
+132
+timeout
+It took 60 seconds
+133
+sat
+(
+  (define-fun x9 () Int
+    38)
+  (define-fun x8 () Int
+    42)
+  (define-fun x3 () Int
+    0)
+  (define-fun x2 () Int
+    0)
+  (define-fun x1 () Int
+    0)
+  (define-fun x4 () Int
+    0)
+  (define-fun x5 () Int
+    27)
+  (define-fun x6 () Int
+    35)
+  (define-fun x7 () Int
+    62)
+)
+It took 0 seconds
+134
+timeout
+It took 60 seconds
+135
+sat
+(
+  (define-fun x6 () Int
+    0)
+  (define-fun x9 () Int
+    0)
+  (define-fun x8 () Int
+    0)
+  (define-fun x3 () Int
+    0)
+  (define-fun x2 () Int
+    0)
+  (define-fun x1 () Int
+    2)
+  (define-fun x7 () Int
+    0)
+  (define-fun x4 () Int
+    2)
+  (define-fun x5 () Int
+    0)
+)
+It took 1 seconds
+136
+timeout
+It took 60 seconds
+137
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+138
+sat
+(
+  (define-fun x7 () Int
+    31)
+  (define-fun x4 () Int
+    6)
+  (define-fun x9 () Int
+    0)
+  (define-fun x5 () Int
+    32)
+  (define-fun x8 () Int
+    241)
+  (define-fun x3 () Int
+    4)
+  (define-fun x2 () Int
+    4)
+  (define-fun x1 () Int
+    4)
+  (define-fun x6 () Int
+    1)
+)
+It took 1 seconds
+139
+sat
+(
+  (define-fun x7 () Int
+    393)
+  (define-fun x6 () Int
+    433)
+  (define-fun x9 () Int
+    260)
+  (define-fun x8 () Int
+    557)
+  (define-fun x3 () Int
+    6)
+  (define-fun x5 () Int
+    872)
+  (define-fun x4 () Int
+    3)
+  (define-fun x1 () Int
+    4)
+  (define-fun x2 () Int
+    5)
+)
+It took 1 seconds
+140
+unsat
+(error "line 163 column 10: model is not available")
+It took 1 seconds
+141
+timeout
+It took 60 seconds
+142
+timeout
+It took 60 seconds
+143
+timeout
+It took 60 seconds
+144
+timeout
+It took 60 seconds
+145
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+146
+sat
+(
+  (define-fun x5 () Int
+    1411)
+  (define-fun x7 () Int
+    3436)
+  (define-fun x9 () Int
+    1141)
+  (define-fun x8 () Int
+    54)
+  (define-fun x4 () Int
+    2)
+  (define-fun x3 () Int
+    4)
+  (define-fun x2 () Int
+    6)
+  (define-fun x1 () Int
+    3)
+  (define-fun x6 () Int
+    0)
+)
+It took 6 seconds
+147
+timeout
+It took 60 seconds
+148
+timeout
+It took 60 seconds
+149
+timeout
+It took 60 seconds
+150
+sat
+(
+  (define-fun x6 () Int
+    1)
+  (define-fun x9 () Int
+    1)
+  (define-fun x8 () Int
+    0)
+  (define-fun x3 () Int
+    0)
+  (define-fun x2 () Int
+    0)
+  (define-fun x5 () Int
+    3)
+  (define-fun x1 () Int
+    1)
+  (define-fun x4 () Int
+    2)
+  (define-fun x7 () Int
+    0)
+)
+It took 0 seconds
+151
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+152
+timeout
+It took 60 seconds
+153
+timeout
+It took 60 seconds
+154
+timeout
+It took 60 seconds
+155
+timeout
+It took 60 seconds
+156
+timeout
+It took 60 seconds
+157
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+158
+timeout
+It took 60 seconds
+159
+timeout
+It took 60 seconds
+160
+timeout
+It took 60 seconds
+161
+timeout
+It took 60 seconds
+162
+timeout
+It took 60 seconds
+163
+timeout
+It took 60 seconds
+164
+timeout
+It took 60 seconds
+165
+timeout
+It took 60 seconds
+166
+timeout
+It took 60 seconds
+167
+timeout
+It took 60 seconds
+168
+timeout
+It took 60 seconds
+169
+timeout
+It took 60 seconds
+170
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+171
+timeout
+It took 60 seconds
+172
+timeout
+It took 60 seconds
+173
+sat
+(
+  (define-fun x9 () Int
+    10)
+  (define-fun x8 () Int
+    14)
+  (define-fun x3 () Int
+    0)
+  (define-fun x2 () Int
+    0)
+  (define-fun x1 () Int
+    0)
+  (define-fun x4 () Int
+    0)
+  (define-fun x5 () Int
+    16)
+  (define-fun x6 () Int
+    0)
+  (define-fun x7 () Int
+    12)
+)
+It took 0 seconds
+174
+timeout
+It took 60 seconds
+175
+timeout
+It took 60 seconds
+176
+timeout
+It took 60 seconds
+177
+timeout
+It took 60 seconds
+178
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+179
+timeout
+It took 61 seconds
+180
+timeout
+It took 60 seconds
+181
+timeout
+It took 60 seconds
+182
+timeout
+It took 60 seconds
+183
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+184
+timeout
+It took 60 seconds
+185
+timeout
+It took 60 seconds
+186
+sat
+(
+  (define-fun x9 () Int
+    10)
+  (define-fun x7 () Int
+    0)
+  (define-fun x8 () Int
+    8)
+  (define-fun x4 () Int
+    9)
+  (define-fun x3 () Int
+    8)
+  (define-fun x2 () Int
+    8)
+  (define-fun x5 () Int
+    0)
+  (define-fun x6 () Int
+    1)
+  (define-fun x1 () Int
+    8)
+)
+It took 5 seconds
+187
+timeout
+It took 60 seconds
+188
+timeout
+It took 60 seconds
+189
+timeout
+It took 60 seconds
+190
+timeout
+It took 60 seconds
+191
+sat
+(
+  (define-fun x7 () Int
+    2)
+  (define-fun x6 () Int
+    89)
+  (define-fun x9 () Int
+    41)
+  (define-fun x8 () Int
+    8)
+  (define-fun x3 () Int
+    4)
+  (define-fun x5 () Int
+    1)
+  (define-fun x2 () Int
+    4)
+  (define-fun x1 () Int
+    5)
+  (define-fun x4 () Int
+    1)
+)
+It took 1 seconds
+192
+timeout
+It took 60 seconds
+193
+timeout
+It took 60 seconds
+194
+timeout
+It took 60 seconds
+195
+timeout
+It took 60 seconds
+196
+timeout
+It took 60 seconds
+197
+timeout
+It took 60 seconds
+198
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+199
+unsat
+(error "line 163 column 10: model is not available")
+It took 0 seconds
+200
+timeout
+It took 60 seconds

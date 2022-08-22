@@ -1,0 +1,309 @@
+begin test using CVC4 ...
+1
+It took 60 seconds
+2
+sat
+(
+(define-fun x () String "56789")
+)
+It took 1 seconds
+3
+sat
+(
+(define-fun x () String "896789")
+)
+It took 18 seconds
+4
+sat
+(
+(define-fun x () String "4086789")
+)
+It took 39 seconds
+5
+sat
+(
+(define-fun x () String "726789")
+)
+It took 16 seconds
+6
+sat
+(
+(define-fun x () String "276789")
+)
+It took 2 seconds
+7
+sat
+(
+(define-fun x () String "816789")
+)
+It took 9 seconds
+8
+sat
+(
+(define-fun x () String "436789")
+)
+It took 8 seconds
+9
+sat
+(
+(define-fun x () String "496789")
+)
+It took 5 seconds
+10
+It took 60 seconds
+11
+sat
+(
+(define-fun x () String "46789")
+)
+It took 0 seconds
+12
+sat
+(
+(define-fun x () String "46789")
+)
+It took 1 seconds
+13
+sat
+(
+(define-fun x () String "886789")
+)
+It took 8 seconds
+14
+sat
+(
+(define-fun x () String "9446789")
+)
+It took 24 seconds
+15
+It took 60 seconds
+16
+sat
+(
+(define-fun x () String "636789")
+)
+It took 19 seconds
+17
+sat
+(
+(define-fun x () String "446789")
+)
+It took 7 seconds
+18
+sat
+(
+(define-fun x () String "316789")
+)
+It took 5 seconds
+19
+It took 60 seconds
+20
+It took 60 seconds
+21
+sat
+(
+(define-fun x () String "946789")
+)
+It took 13 seconds
+22
+sat
+(
+(define-fun x () String "526789")
+)
+It took 19 seconds
+23
+It took 60 seconds
+24
+It took 60 seconds
+25
+sat
+(
+(define-fun x () String "46789")
+)
+It took 0 seconds
+26
+It took 60 seconds
+27
+It took 60 seconds
+28
+It took 60 seconds
+29
+sat
+(
+(define-fun x () String "396789")
+)
+It took 9 seconds
+30
+It took 60 seconds
+31
+It took 60 seconds
+32
+It took 60 seconds
+33
+It took 60 seconds
+34
+It took 60 seconds
+35
+sat
+(
+(define-fun x () String "8316789")
+)
+It took 37 seconds
+36
+sat
+(
+(define-fun x () String "686789")
+)
+It took 10 seconds
+37
+It took 60 seconds
+38
+sat
+(
+(define-fun x () String "506789")
+)
+It took 4 seconds
+39
+It took 60 seconds
+40
+It took 60 seconds
+41
+It took 60 seconds
+42
+sat
+(
+(define-fun x () String "8756789")
+)
+It took 46 seconds
+43
+It took 60 seconds
+44
+It took 60 seconds
+45
+It took 60 seconds
+46
+It took 60 seconds
+47
+It took 60 seconds
+48
+It took 60 seconds
+49
+It took 60 seconds
+50
+It took 60 seconds
+51
+It took 60 seconds
+52
+It took 60 seconds
+53
+It took 60 seconds
+54
+It took 60 seconds
+55
+It took 60 seconds
+56
+It took 60 seconds
+57
+sat
+(
+(define-fun x () String "4636789")
+)
+It took 32 seconds
+58
+sat
+(
+(define-fun x () String "50696789")
+)
+It took 50 seconds
+59
+It took 60 seconds
+60
+It took 60 seconds
+61
+sat
+(
+(define-fun x () String "806789")
+)
+It took 14 seconds
+62
+It took 60 seconds
+63
+It took 60 seconds
+64
+It took 60 seconds
+65
+It took 60 seconds
+66
+It took 60 seconds
+67
+It took 60 seconds
+68
+It took 60 seconds
+69
+It took 60 seconds
+70
+It took 60 seconds
+71
+sat
+(
+(define-fun x () String "4286789")
+)
+It took 10 seconds
+72
+It took 60 seconds
+73
+It took 60 seconds
+74
+It took 60 seconds
+75
+It took 60 seconds
+76
+It took 60 seconds
+77
+It took 60 seconds
+78
+It took 61 seconds
+79
+It took 60 seconds
+80
+It took 60 seconds
+81
+It took 60 seconds
+82
+It took 60 seconds
+83
+It took 60 seconds
+84
+It took 60 seconds
+85
+It took 60 seconds
+86
+It took 60 seconds
+87
+It took 60 seconds
+88
+It took 60 seconds
+89
+It took 60 seconds
+90
+It took 60 seconds
+91
+It took 60 seconds
+92
+It took 60 seconds
+93
+It took 60 seconds
+94
+It took 60 seconds
+95
+It took 60 seconds
+96
+It took 60 seconds
+97
+It took 60 seconds
+98
+It took 60 seconds
+99
+It took 60 seconds
+100
+It took 60 seconds

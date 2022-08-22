@@ -1,0 +1,601 @@
+begin test using CVC4 ...
+1
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+2
+sat
+(model
+(define-fun x () String "56789")
+)
+It took 1 seconds
+3
+sat
+(model
+(define-fun x () String "896789")
+)
+It took 1 seconds
+4
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+5
+sat
+(model
+(define-fun x () String "726789")
+)
+It took 3 seconds
+6
+sat
+(model
+(define-fun x () String "276789")
+)
+It took 10 seconds
+7
+sat
+(model
+(define-fun x () String "816789")
+)
+It took 6 seconds
+8
+sat
+(model
+(define-fun x () String "436789")
+)
+It took 7 seconds
+9
+sat
+(model
+(define-fun x () String "496789")
+)
+It took 7 seconds
+10
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+11
+sat
+(model
+(define-fun x () String "46789")
+)
+It took 1 seconds
+12
+sat
+(model
+(define-fun x () String "46789")
+)
+It took 0 seconds
+13
+sat
+(model
+(define-fun x () String "886789")
+)
+It took 5 seconds
+14
+sat
+(model
+(define-fun x () String "9446789")
+)
+It took 46 seconds
+15
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+16
+sat
+(model
+(define-fun x () String "636789")
+)
+It took 14 seconds
+17
+sat
+(model
+(define-fun x () String "446789")
+)
+It took 7 seconds
+18
+sat
+(model
+(define-fun x () String "316789")
+)
+It took 10 seconds
+19
+sat
+(model
+(define-fun x () String "9966789")
+)
+It took 30 seconds
+20
+unknown
+(model
+(define-fun x () String "0046789")
+)
+It took 60 seconds
+21
+sat
+(model
+(define-fun x () String "946789")
+)
+It took 2 seconds
+22
+sat
+(model
+(define-fun x () String "796789")
+)
+It took 10 seconds
+23
+sat
+(model
+(define-fun x () String "7116789")
+)
+It took 23 seconds
+24
+unknown
+(model
+(define-fun x () String "0026789")
+)
+It took 60 seconds
+25
+sat
+(model
+(define-fun x () String "46789")
+)
+It took 1 seconds
+26
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+27
+unknown
+(model
+(define-fun x () String "0016789")
+)
+It took 60 seconds
+28
+unknown
+(model
+(define-fun x () String "0026789")
+)
+It took 60 seconds
+29
+sat
+(model
+(define-fun x () String "396789")
+)
+It took 8 seconds
+30
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+31
+unknown
+(model
+(define-fun x () String "0016789")
+)
+It took 61 seconds
+32
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+33
+unknown
+(model
+(define-fun x () String "0026789")
+)
+It took 60 seconds
+34
+unknown
+(model
+(define-fun x () String "0026789")
+)
+It took 60 seconds
+35
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+36
+sat
+(model
+(define-fun x () String "686789")
+)
+It took 5 seconds
+37
+unknown
+(model
+(define-fun x () String "0046789")
+)
+It took 60 seconds
+38
+sat
+(model
+(define-fun x () String "506789")
+)
+It took 2 seconds
+39
+unknown
+(model
+(define-fun x () String "0476789")
+)
+It took 60 seconds
+40
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 61 seconds
+41
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+42
+sat
+(model
+(define-fun x () String "8756789")
+)
+It took 52 seconds
+43
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+44
+unknown
+(model
+(define-fun x () String "0046789")
+)
+It took 60 seconds
+45
+unknown
+(model
+(define-fun x () String "0316789")
+)
+It took 60 seconds
+46
+unknown
+(model
+(define-fun x () String "0466789")
+)
+It took 60 seconds
+47
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+48
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+49
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+50
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+51
+unknown
+(model
+(define-fun x () String "0506789")
+)
+It took 60 seconds
+52
+unknown
+(model
+(define-fun x () String "00016789")
+)
+It took 61 seconds
+53
+unknown
+(model
+(define-fun x () String "00596789")
+)
+It took 60 seconds
+54
+unknown
+(model
+(define-fun x () String "00056789")
+)
+It took 60 seconds
+55
+unknown
+(model
+(define-fun x () String "0586789")
+)
+It took 60 seconds
+56
+unknown
+(model
+(define-fun x () String "0026789")
+)
+It took 60 seconds
+57
+sat
+(model
+(define-fun x () String "4636789")
+)
+It took 38 seconds
+58
+unknown
+(model
+(define-fun x () String "00206789")
+)
+It took 61 seconds
+59
+unknown
+(model
+(define-fun x () String "00246789")
+)
+It took 60 seconds
+60
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+61
+sat
+(model
+(define-fun x () String "806789")
+)
+It took 3 seconds
+62
+unknown
+(model
+(define-fun x () String "00356789")
+)
+It took 60 seconds
+63
+unknown
+(model
+(define-fun x () String "0756789")
+)
+It took 60 seconds
+64
+sat
+(model
+(define-fun x () String "7536789")
+)
+It took 40 seconds
+65
+unknown
+(model
+(define-fun x () String "00026789")
+)
+It took 60 seconds
+66
+unknown
+(model
+(define-fun x () String "0056789")
+)
+It took 60 seconds
+67
+unknown
+(model
+(define-fun x () String "00836789")
+)
+It took 60 seconds
+68
+unknown
+(model
+(define-fun x () String "00736789")
+)
+It took 61 seconds
+69
+unknown
+(model
+(define-fun x () String "00526789")
+)
+It took 60 seconds
+70
+unknown
+(model
+(define-fun x () String "00616789")
+)
+It took 60 seconds
+71
+sat
+(model
+(define-fun x () String "4286789")
+)
+It took 9 seconds
+72
+unknown
+(model
+(define-fun x () String "00316789")
+)
+It took 60 seconds
+73
+unknown
+(model
+(define-fun x () String "0016789")
+)
+It took 60 seconds
+74
+unknown
+(model
+(define-fun x () String "00476789")
+)
+It took 60 seconds
+75
+unknown
+(model
+(define-fun x () String "00456789")
+)
+It took 61 seconds
+76
+unknown
+(model
+(define-fun x () String "88756789")
+)
+It took 60 seconds
+77
+unknown
+(model
+(define-fun x () String "88736789")
+)
+It took 60 seconds
+78
+unknown
+(model
+(define-fun x () String "90816789")
+)
+It took 60 seconds
+79
+unknown
+(model
+(define-fun x () String "88746789")
+)
+It took 60 seconds
+80
+unknown
+(model
+(define-fun x () String "88726789")
+)
+It took 60 seconds
+81
+unknown
+(model
+(define-fun x () String "88716789")
+)
+It took 60 seconds
+82
+unknown
+(model
+(define-fun x () String "8826789")
+)
+It took 60 seconds
+83
+unknown
+(model
+(define-fun x () String "88736789")
+)
+It took 60 seconds
+84
+unknown
+(model
+(define-fun x () String "0036789")
+)
+It took 60 seconds
+85
+unknown
+(model
+(define-fun x () String "88736789")
+)
+It took 60 seconds
+86
+unknown
+(model
+(define-fun x () String "88716789")
+)
+It took 60 seconds
+87
+unknown
+(model
+(define-fun x () String "88716789")
+)
+It took 60 seconds
+88
+unknown
+(model
+(define-fun x () String "88726789")
+)
+It took 61 seconds
+89
+unknown
+(model
+(define-fun x () String "88726789")
+)
+It took 60 seconds
+90
+unknown
+(model
+(define-fun x () String "88716789")
+)
+It took 60 seconds
+91
+unknown
+(model
+(define-fun x () String "88756789")
+)
+It took 60 seconds
+92
+unknown
+(model
+(define-fun x () String "88746789")
+)
+It took 60 seconds
+93
+unknown
+(model
+(define-fun x () String "98726789")
+)
+It took 60 seconds
+94
+unknown
+(model
+(define-fun x () String "88746789")
+)
+It took 60 seconds
+95
+unknown
+(model
+(define-fun x () String "88736789")
+)
+It took 60 seconds
+96
+unknown
+(model
+(define-fun x () String "88756789")
+)
+It took 60 seconds
+97
+unknown
+(model
+(define-fun x () String "88716789")
+)
+It took 60 seconds
+98
+unknown
+(model
+(define-fun x () String "88716789")
+)
+It took 60 seconds
+99
+unknown
+(model
+(define-fun x () String "88756789")
+)
+It took 61 seconds
+100
+unknown
+(model
+(define-fun x () String "88716789")
+)
+It took 60 seconds

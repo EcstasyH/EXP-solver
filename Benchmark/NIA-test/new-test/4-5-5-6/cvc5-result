@@ -1,0 +1,743 @@
+begin test using CVC4 ...
+1
+It took 60 seconds
+2
+It took 60 seconds
+3
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 1 seconds
+4
+It took 60 seconds
+5
+It took 60 seconds
+6
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 2)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 1)
+)
+It took 0 seconds
+7
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 9)
+(define-fun x6 () Int 701013214)
+(define-fun x7 () Int 11)
+(define-fun x8 () Int 5316529984)
+(define-fun x9 () Int 3919974015)
+)
+It took 2 seconds
+8
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+9
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 1)
+(define-fun x3 () Int 1)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 1)
+(define-fun x6 () Int 1)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 0)
+)
+It took 1 seconds
+10
+It took 60 seconds
+11
+It took 60 seconds
+12
+sat
+(
+(define-fun x1 () Int 1)
+(define-fun x2 () Int 1)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 1)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 1)
+)
+It took 1 seconds
+13
+It took 60 seconds
+14
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 4)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 6)
+)
+It took 15 seconds
+15
+It took 60 seconds
+16
+It took 60 seconds
+17
+It took 60 seconds
+18
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+19
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 1 seconds
+20
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+21
+It took 60 seconds
+22
+It took 60 seconds
+23
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+24
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+25
+It took 60 seconds
+26
+It took 61 seconds
+27
+It took 60 seconds
+28
+It took 60 seconds
+29
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 72677799)
+(define-fun x6 () Int 12577894)
+(define-fun x7 () Int 3)
+(define-fun x8 () Int 59914506)
+(define-fun x9 () Int 82870339)
+)
+It took 56 seconds
+30
+It took 60 seconds
+31
+It took 60 seconds
+32
+It took 61 seconds
+33
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+34
+It took 60 seconds
+35
+It took 60 seconds
+36
+It took 60 seconds
+37
+It took 60 seconds
+38
+It took 60 seconds
+39
+It took 60 seconds
+40
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 10)
+(define-fun x6 () Int 10)
+(define-fun x7 () Int 13)
+(define-fun x8 () Int 18)
+(define-fun x9 () Int 52)
+)
+It took 0 seconds
+41
+It took 60 seconds
+42
+It took 60 seconds
+43
+It took 60 seconds
+44
+It took 60 seconds
+45
+It took 60 seconds
+46
+It took 60 seconds
+47
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+48
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+49
+It took 60 seconds
+50
+It took 60 seconds
+51
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+52
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 26 seconds
+53
+It took 60 seconds
+54
+It took 60 seconds
+55
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+56
+It took 60 seconds
+57
+It took 60 seconds
+58
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+59
+It took 60 seconds
+60
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 1 seconds
+61
+sat
+(
+(define-fun x1 () Int 1)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 2)
+(define-fun x5 () Int 1)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 0)
+)
+It took 3 seconds
+62
+It took 60 seconds
+63
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+64
+It took 60 seconds
+65
+It took 60 seconds
+66
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+67
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 1 seconds
+68
+It took 60 seconds
+69
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 30)
+(define-fun x6 () Int 13)
+(define-fun x7 () Int 1)
+(define-fun x8 () Int 1)
+(define-fun x9 () Int 10)
+)
+It took 0 seconds
+70
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+71
+It took 60 seconds
+72
+It took 60 seconds
+73
+It took 60 seconds
+74
+It took 60 seconds
+75
+It took 61 seconds
+76
+It took 60 seconds
+77
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+78
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+79
+It took 60 seconds
+80
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 1)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 0)
+)
+It took 0 seconds
+81
+It took 60 seconds
+82
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 1)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 1)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 1)
+)
+It took 0 seconds
+83
+It took 60 seconds
+84
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 1)
+(define-fun x4 () Int 1)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 2)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 4)
+(define-fun x9 () Int 0)
+)
+It took 2 seconds
+85
+It took 60 seconds
+86
+It took 60 seconds
+87
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+88
+It took 60 seconds
+89
+It took 60 seconds
+90
+It took 60 seconds
+91
+It took 60 seconds
+92
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 1)
+(define-fun x3 () Int 1)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 2)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 1)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 0)
+)
+It took 1 seconds
+93
+It took 60 seconds
+94
+It took 60 seconds
+95
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+96
+It took 60 seconds
+97
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 5)
+(define-fun x6 () Int 5)
+(define-fun x7 () Int 1)
+(define-fun x8 () Int 1)
+(define-fun x9 () Int 1)
+)
+It took 0 seconds
+98
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 1 seconds
+99
+It took 60 seconds
+100
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 6)
+(define-fun x8 () Int 4)
+(define-fun x9 () Int 0)
+)
+It took 0 seconds
+101
+It took 60 seconds
+102
+It took 61 seconds
+103
+It took 60 seconds
+104
+It took 60 seconds
+105
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+106
+It took 60 seconds
+107
+It took 60 seconds
+108
+It took 60 seconds
+109
+It took 60 seconds
+110
+It took 60 seconds
+111
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+112
+It took 60 seconds
+113
+It took 60 seconds
+114
+It took 60 seconds
+115
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+116
+It took 60 seconds
+117
+It took 60 seconds
+118
+It took 60 seconds
+119
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 1 seconds
+120
+It took 60 seconds
+121
+It took 60 seconds
+122
+It took 60 seconds
+123
+It took 60 seconds
+124
+It took 60 seconds
+125
+It took 60 seconds
+126
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+127
+It took 60 seconds
+128
+It took 60 seconds
+129
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 1)
+(define-fun x3 () Int 1)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 1)
+(define-fun x9 () Int 0)
+)
+It took 1 seconds
+130
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 2)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 2)
+(define-fun x5 () Int 1)
+(define-fun x6 () Int 1)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 4)
+(define-fun x9 () Int 1)
+)
+It took 27 seconds
+131
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 2)
+(define-fun x3 () Int 2)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 2)
+)
+It took 1 seconds
+132
+It took 60 seconds
+133
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 3)
+(define-fun x6 () Int 4)
+(define-fun x7 () Int 6)
+(define-fun x8 () Int 4)
+(define-fun x9 () Int 5)
+)
+It took 0 seconds
+134
+It took 60 seconds
+135
+sat
+(
+(define-fun x1 () Int 2)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 2)
+(define-fun x5 () Int 0)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 0)
+)
+It took 1 seconds
+136
+It took 60 seconds
+137
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+138
+It took 60 seconds
+139
+It took 60 seconds
+140
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+141
+It took 60 seconds
+142
+It took 60 seconds
+143
+It took 60 seconds
+144
+It took 60 seconds
+145
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+146
+It took 60 seconds
+147
+It took 60 seconds
+148
+It took 60 seconds
+149
+It took 60 seconds
+150
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 1)
+(define-fun x5 () Int 1)
+(define-fun x6 () Int 1)
+(define-fun x7 () Int 0)
+(define-fun x8 () Int 0)
+(define-fun x9 () Int 0)
+)
+It took 1 seconds
+151
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+152
+It took 60 seconds
+153
+It took 60 seconds
+154
+It took 60 seconds
+155
+It took 60 seconds
+156
+It took 60 seconds
+157
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+158
+It took 60 seconds
+159
+It took 60 seconds
+160
+It took 60 seconds
+161
+It took 60 seconds
+162
+It took 60 seconds
+163
+It took 60 seconds
+164
+It took 60 seconds
+165
+It took 61 seconds
+166
+It took 60 seconds
+167
+It took 60 seconds
+168
+It took 60 seconds
+169
+It took 60 seconds
+170
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+171
+It took 60 seconds
+172
+It took 60 seconds
+173
+sat
+(
+(define-fun x1 () Int 0)
+(define-fun x2 () Int 0)
+(define-fun x3 () Int 0)
+(define-fun x4 () Int 0)
+(define-fun x5 () Int 23)
+(define-fun x6 () Int 0)
+(define-fun x7 () Int 18)
+(define-fun x8 () Int 20)
+(define-fun x9 () Int 18)
+)
+It took 0 seconds
+174
+It took 60 seconds
+175
+It took 61 seconds
+176
+It took 60 seconds
+177
+It took 60 seconds
+178
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+179
+It took 60 seconds
+180
+It took 60 seconds
+181
+It took 60 seconds
+182
+It took 60 seconds
+183
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+184
+It took 60 seconds
+185
+It took 60 seconds
+186
+It took 60 seconds
+187
+It took 60 seconds
+188
+It took 60 seconds
+189
+It took 60 seconds
+190
+It took 60 seconds
+191
+It took 60 seconds
+192
+It took 60 seconds
+193
+It took 60 seconds
+194
+It took 61 seconds
+195
+It took 60 seconds
+196
+It took 60 seconds
+197
+It took 60 seconds
+198
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+199
+unsat
+(error "Cannot get model unless after a SAT or UNKNOWN response.")
+It took 0 seconds
+200
+It took 60 seconds

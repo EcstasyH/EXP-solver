@@ -1,0 +1,541 @@
+begin test using Z3 ...
+1
+sat
+(
+  (define-fun x () String
+    "1234500002096789")
+)
+It took 1 seconds
+2
+sat
+(
+  (define-fun x () String
+    "1234509926726789")
+)
+It took 0 seconds
+3
+sat
+(
+  (define-fun x () String
+    "12345640596789")
+)
+It took 7 seconds
+4
+sat
+(
+  (define-fun x () String
+    "1234500401386789")
+)
+It took 0 seconds
+5
+sat
+(
+  (define-fun x () String
+    "123452546789")
+)
+It took 5 seconds
+6
+sat
+(
+  (define-fun x () String
+    "12345336789")
+)
+It took 1 seconds
+7
+sat
+(
+  (define-fun x () String
+    "12345766206789")
+)
+It took 1 seconds
+8
+sat
+(
+  (define-fun x () String
+    "1234550677916789")
+)
+It took 1 seconds
+9
+sat
+(
+  (define-fun x () String
+    "1234502489196789")
+)
+It took 0 seconds
+10
+sat
+(
+  (define-fun x () String
+    "12345081206789")
+)
+It took 1 seconds
+11
+sat
+(
+  (define-fun x () String
+    "12345011826789")
+)
+It took 2 seconds
+12
+sat
+(
+  (define-fun x () String
+    "123451501206789")
+)
+It took 0 seconds
+13
+sat
+(
+  (define-fun x () String
+    "12345420056789")
+)
+It took 1 seconds
+14
+sat
+(
+  (define-fun x () String
+    "12345403496789")
+)
+It took 2 seconds
+15
+sat
+(
+  (define-fun x () String
+    "1234546789")
+)
+It took 0 seconds
+16
+sat
+(
+  (define-fun x () String
+    "12345084096789")
+)
+It took 1 seconds
+17
+sat
+(
+  (define-fun x () String
+    "1234505401886789")
+)
+It took 0 seconds
+18
+sat
+(
+  (define-fun x () String
+    "1234586789")
+)
+It took 1 seconds
+19
+sat
+(
+  (define-fun x () String
+    "12345104996789")
+)
+It took 2 seconds
+20
+sat
+(
+  (define-fun x () String
+    "1234590816789")
+)
+It took 1 seconds
+21
+sat
+(
+  (define-fun x () String
+    "123450008906789")
+)
+It took 0 seconds
+22
+sat
+(
+  (define-fun x () String
+    "1234561998876789")
+)
+It took 1 seconds
+23
+sat
+(
+  (define-fun x () String
+    "12345316789")
+)
+It took 0 seconds
+24
+sat
+(
+  (define-fun x () String
+    "12345888796789")
+)
+It took 1 seconds
+25
+sat
+(
+  (define-fun x () String
+    "12345786789")
+)
+It took 0 seconds
+26
+sat
+(
+  (define-fun x () String
+    "12345200906789")
+)
+It took 17 seconds
+27
+timeout
+It took 60 seconds
+28
+sat
+(
+  (define-fun x () String
+    "12345034216789")
+)
+It took 29 seconds
+29
+sat
+(
+  (define-fun x () String
+    "1234566084896789")
+)
+It took 2 seconds
+30
+sat
+(
+  (define-fun x () String
+    "1234540688946789")
+)
+It took 1 seconds
+31
+sat
+(
+  (define-fun x () String
+    "1234550797896789")
+)
+It took 24 seconds
+32
+sat
+(
+  (define-fun x () String
+    "1234571799996789")
+)
+It took 7 seconds
+33
+sat
+(
+  (define-fun x () String
+    "123454146789")
+)
+It took 5 seconds
+34
+sat
+(
+  (define-fun x () String
+    "1234510689996789")
+)
+It took 2 seconds
+35
+sat
+(
+  (define-fun x () String
+    "12345062046789")
+)
+It took 16 seconds
+36
+sat
+(
+  (define-fun x () String
+    "12345126789")
+)
+It took 3 seconds
+37
+sat
+(
+  (define-fun x () String
+    "123458076789")
+)
+It took 4 seconds
+38
+sat
+(
+  (define-fun x () String
+    "12345020066789")
+)
+It took 3 seconds
+39
+sat
+(
+  (define-fun x () String
+    "123456416789")
+)
+It took 2 seconds
+40
+sat
+(
+  (define-fun x () String
+    "1234501156789")
+)
+It took 6 seconds
+41
+sat
+(
+  (define-fun x () String
+    "1234583289896789")
+)
+It took 6 seconds
+42
+sat
+(
+  (define-fun x () String
+    "123454846789")
+)
+It took 9 seconds
+43
+sat
+(
+  (define-fun x () String
+    "123458388956789")
+)
+It took 2 seconds
+44
+sat
+(
+  (define-fun x () String
+    "12345027176789")
+)
+It took 23 seconds
+45
+sat
+(
+  (define-fun x () String
+    "123451256789")
+)
+It took 9 seconds
+46
+timeout
+It took 60 seconds
+47
+sat
+(
+  (define-fun x () String
+    "1234580746789")
+)
+It took 4 seconds
+48
+sat
+(
+  (define-fun x () String
+    "1234543276789")
+)
+It took 11 seconds
+49
+sat
+(
+  (define-fun x () String
+    "12345907886789")
+)
+It took 28 seconds
+50
+sat
+(
+  (define-fun x () String
+    "1234580796789")
+)
+It took 5 seconds
+51
+timeout
+It took 60 seconds
+52
+timeout
+It took 61 seconds
+53
+timeout
+It took 60 seconds
+54
+sat
+(
+  (define-fun x () String
+    "12345215596789")
+)
+It took 44 seconds
+55
+timeout
+It took 60 seconds
+56
+timeout
+It took 60 seconds
+57
+timeout
+It took 60 seconds
+58
+timeout
+It took 60 seconds
+59
+sat
+(
+  (define-fun x () String
+    "1234500810096789")
+)
+It took 2 seconds
+60
+sat
+(
+  (define-fun x () String
+    "12345300236789")
+)
+It took 23 seconds
+61
+timeout
+It took 60 seconds
+62
+sat
+(
+  (define-fun x () String
+    "1234589088996789")
+)
+It took 11 seconds
+63
+timeout
+It took 60 seconds
+64
+timeout
+It took 60 seconds
+65
+timeout
+It took 60 seconds
+66
+timeout
+It took 60 seconds
+67
+sat
+(
+  (define-fun x () String
+    "12345671196789")
+)
+It took 32 seconds
+68
+timeout
+It took 60 seconds
+69
+sat
+(
+  (define-fun x () String
+    "12345970086789")
+)
+It took 13 seconds
+70
+sat
+(
+  (define-fun x () String
+    "1234593956789")
+)
+It took 41 seconds
+71
+timeout
+It took 60 seconds
+72
+sat
+(
+  (define-fun x () String
+    "12345098696789")
+)
+It took 31 seconds
+73
+timeout
+It took 60 seconds
+74
+timeout
+It took 60 seconds
+75
+sat
+(
+  (define-fun x () String
+    "12345059696789")
+)
+It took 44 seconds
+76
+timeout
+It took 60 seconds
+77
+timeout
+It took 61 seconds
+78
+timeout
+It took 60 seconds
+79
+timeout
+It took 60 seconds
+80
+timeout
+It took 60 seconds
+81
+timeout
+It took 60 seconds
+82
+timeout
+It took 60 seconds
+83
+timeout
+It took 60 seconds
+84
+timeout
+It took 60 seconds
+85
+timeout
+It took 60 seconds
+86
+timeout
+It took 60 seconds
+87
+timeout
+It took 60 seconds
+88
+timeout
+It took 60 seconds
+89
+sat
+(
+  (define-fun x () String
+    "12345406006789")
+)
+It took 6 seconds
+90
+timeout
+It took 60 seconds
+91
+sat
+(
+  (define-fun x () String
+    "1234590669896789")
+)
+It took 15 seconds
+92
+timeout
+It took 60 seconds
+93
+timeout
+It took 60 seconds
+94
+timeout
+It took 60 seconds
+95
+timeout
+It took 60 seconds
+96
+timeout
+It took 60 seconds
+97
+timeout
+It took 60 seconds
+98
+timeout
+It took 61 seconds
+99
+sat
+(
+  (define-fun x () String
+    "123455136789")
+)
+It took 48 seconds
+100
+timeout
+It took 60 seconds

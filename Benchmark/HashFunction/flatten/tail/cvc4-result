@@ -1,0 +1,461 @@
+begin test using CVC4 ...
+1
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+2
+sat
+(model
+(define-fun x () String "50505050505050505092929292926789")
+)
+It took 4 seconds
+3
+sat
+(model
+(define-fun x () String "36363636363648484848486789")
+)
+It took 2 seconds
+4
+sat
+(model
+(define-fun x () String "6464646464646464646464646464646464196789")
+)
+It took 7 seconds
+5
+sat
+(model
+(define-fun x () String "77777777777777777777777768686789")
+)
+It took 4 seconds
+6
+sat
+(model
+(define-fun x () String "88888888888888887171716789")
+)
+It took 6 seconds
+7
+sat
+(model
+(define-fun x () String "97979797979731316789")
+)
+It took 0 seconds
+8
+sat
+(model
+(define-fun x () String "2020202020208484848484848484846789")
+)
+It took 5 seconds
+9
+sat
+(model
+(define-fun x () String "74747463636363636363636363636789")
+)
+It took 3 seconds
+10
+sat
+(model
+(define-fun x () String "575757576868686868686868686868686868686868686868686789")
+)
+It took 38 seconds
+11
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+12
+sat
+(model
+(define-fun x () String "1228286789")
+)
+It took 0 seconds
+13
+sat
+(model
+(define-fun x () String "9696969696969696969696969696968282826789")
+)
+It took 12 seconds
+14
+sat
+(model
+(define-fun x () String "27666666666789")
+)
+It took 0 seconds
+15
+sat
+(model
+(define-fun x () String "85858585858585956789")
+)
+It took 1 seconds
+16
+sat
+(model
+(define-fun x () String "6969696969696969696987876789")
+)
+It took 2 seconds
+17
+sat
+(model
+(define-fun x () String "2020202053535353535353535353536789")
+)
+It took 4 seconds
+18
+sat
+(model
+(define-fun x () String "808080808080808080808020202020206789")
+)
+It took 7 seconds
+19
+sat
+(model
+(define-fun x () String "55555555555555555555555555599996789")
+)
+It took 20 seconds
+20
+sat
+(model
+(define-fun x () String "9999999999999999999999999999999999999999999999686789")
+)
+It took 27 seconds
+21
+sat
+(model
+(define-fun x () String "464646464646464646464646464616161616161616161616166789")
+)
+It took 36 seconds
+22
+sat
+(model
+(define-fun x () String "515151515151515151515151515151515151515151515151436789")
+)
+It took 34 seconds
+23
+sat
+(model
+(define-fun x () String "141414147878786789")
+)
+It took 1 seconds
+24
+sat
+(model
+(define-fun x () String "1010101010666666789")
+)
+It took 1 seconds
+25
+sat
+(model
+(define-fun x () String "8484848484848484505050506789")
+)
+It took 3 seconds
+26
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+27
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+28
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+29
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+30
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+31
+sat
+(model
+(define-fun x () String "777777777777555555556789")
+)
+It took 5 seconds
+32
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+33
+unsat
+(error "Cannot get model unless immediately preceded by SAT/NOT_ENTAILED or UNKNOWN response.")
+It took 4 seconds
+34
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+35
+sat
+(model
+(define-fun x () String "555555556666666666666666666789")
+)
+It took 10 seconds
+36
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+37
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+38
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+39
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+40
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+41
+sat
+(model
+(define-fun x () String "717171715555555555555555555555555555555555555555556789")
+)
+It took 24 seconds
+42
+sat
+(model
+(define-fun x () String "922929292929292929292929296789")
+)
+It took 2 seconds
+43
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+44
+sat
+(model
+(define-fun x () String "66666666666669996789")
+)
+It took 5 seconds
+45
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+46
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+47
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+48
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+49
+sat
+(model
+(define-fun x () String "82828211111111116789")
+)
+It took 1 seconds
+50
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+51
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+52
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+53
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+54
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+55
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+56
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+57
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+58
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+59
+sat
+(model
+(define-fun x () String "2222222222727272727272727276789")
+)
+It took 14 seconds
+60
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+61
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+62
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+63
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+64
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+65
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+66
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+67
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+68
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+69
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+70
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+71
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+72
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+73
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+74
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+75
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+76
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+77
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+78
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+79
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+80
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+81
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+82
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+83
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+84
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+85
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 64 seconds
+86
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+87
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+88
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+89
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+90
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+91
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+92
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+93
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+94
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+95
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 64 seconds
+96
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+97
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+98
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
+99
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 61 seconds
+100
+unknown
+(error "Cannot get model since model is not available. Perhaps the most recent call to check-sat was interupted?")
+It took 60 seconds
